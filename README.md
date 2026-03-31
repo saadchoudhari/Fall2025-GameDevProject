@@ -127,13 +127,7 @@ Assets/
 
 ---
 
-## 👥 Contributors
 
-ISU Game Development Club – Fall 2025 Team
-
-(You can list team members here if required.)
-
----
 
 ## 📜 License
 
